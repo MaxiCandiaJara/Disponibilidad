@@ -279,13 +279,24 @@
     {
         "Nombre": "maxi candia",
         "Manana": [
-            "Miercoles"
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
+            "lunes",
+            "martes",
             "miercoles",
-            "jueves"
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
