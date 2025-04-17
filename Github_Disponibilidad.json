@@ -299,5 +299,18 @@
         ],
         "Mensaje": false,
         "Comentario": ""
+    },
+    {
+        "Nombre": "javiera",
+        "Manana": [
+            "lunes",
+            "martes",
+            "sabado"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": true,
+        "Comentario": "chillona"
     }
 ]
