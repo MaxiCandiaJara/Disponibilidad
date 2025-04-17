@@ -1,0 +1,303 @@
+[
+    {
+        "Nombre": "carlos godoy",
+        "Manana": [
+            "lunes",
+            "martes",
+            "jueves"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": true,
+        "Comentario": "lunes 27 no"
+    },
+    {
+        "Nombre": "claudio fuentes",
+        "Manana": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "francisco blanco",
+        "Manana": [
+            "lunes"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": "intercalados los lunes"
+    },
+    {
+        "Nombre": "francisco ramos",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "jose aguilar",
+        "Manana": [
+            "jueves",
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "leonardo serey",
+        "Manana": [
+            "sabado"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "luis bustamante",
+        "Manana": [
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "marcelo candia",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": true,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "marcos villanueva",
+        "Manana": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "miguel pacheco",
+        "Manana": [
+            ""
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "rodrigo valenzuela",
+        "Manana": [
+            ""
+        ],
+        "Tarde": [
+            "miercoles",
+            "viernes"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "claudio ormazabal",
+        "Manana": [
+            ""
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "david donoso",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            "viernes"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "esteban bernales",
+        "Manana": [
+            "sabado"
+        ],
+        "Tarde": [
+            "domingo"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "hector caro",
+        "Manana": [
+            "sabado"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "luis valenzuela",
+        "Manana": [
+            ""
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "oscar rojas",
+        "Manana": [
+            "jueves",
+            "sabado"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "victor balcazar",
+        "Manana": [
+            "sabado"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "pablo cayunao",
+        "Manana": [
+            ""
+        ],
+        "Tarde": [
+            "miercoles"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "mauricio zu\u00f1iga",
+        "Manana": [
+            "jueves",
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "giovanni fuentes",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            "viernes"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "joaquin gonzalez",
+        "Manana": [
+            "lunez",
+            "miercoles"
+        ],
+        "Tarde": [
+            "miercoles",
+            "jueves"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "jorge martinez",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": true,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "maxi candia",
+        "Manana": [
+            "Miercoles"
+        ],
+        "Tarde": [
+            "miercoles",
+            "jueves"
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    },
+    {
+        "Nombre": "rolando cespedes",
+        "Manana": [
+            "miercoles",
+            "viernes"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
+    }
+]
