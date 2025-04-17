@@ -116,12 +116,13 @@
     {
         "Nombre": "miguel pacheco",
         "Manana": [
-            ""
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
