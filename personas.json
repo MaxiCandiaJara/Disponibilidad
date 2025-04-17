@@ -88,11 +88,11 @@
     {
         "Nombre": "marcelo candia",
         "Manana": [
-            "sabado",
-            "domingo"
+            "Lunes",
+            "Sabado"
         ],
         "Tarde": [
-            ""
+            "miercoles"
         ],
         "Mensaje": true,
         "Comentario": ""
