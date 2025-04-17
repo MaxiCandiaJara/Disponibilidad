@@ -9,7 +9,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": true,
+        "Mensaje": false,
         "Comentario": "lunes 27 no"
     },
     {
@@ -94,7 +94,7 @@
         "Tarde": [
             "miercoles"
         ],
-        "Mensaje": true,
+        "Mensaje": false,
         "Comentario": ""
     },
     {
@@ -116,13 +116,12 @@
     {
         "Nombre": "miguel pacheco",
         "Manana": [
-            "sabado",
-            "domingo"
+            ""
         ],
         "Tarde": [
             ""
         ],
-        "Mensaje": true,
+        "Mensaje": false,
         "Comentario": ""
     },
     {
@@ -274,7 +273,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": true,
+        "Mensaje": false,
         "Comentario": ""
     },
     {
