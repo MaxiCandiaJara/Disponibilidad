@@ -9,22 +9,18 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": "lunes 27 no"
     },
     {
         "Nombre": "claudio fuentes",
         "Manana": [
-            "lunes",
-            "martes",
-            "miercoles",
-            "jueves",
             "viernes"
         ],
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -35,7 +31,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": "intercalados los lunes"
     },
     {
@@ -45,10 +41,11 @@
             "domingo"
         ],
         "Tarde": [
-            ""
+            "miercoles",
+            "jueves"
         ],
-        "Mensaje": false,
-        "Comentario": ""
+        "Mensaje": true,
+        "Comentario": "solo zoom en las tardes si es 19:00"
     },
     {
         "Nombre": "jose aguilar",
@@ -60,7 +57,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -71,7 +68,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -82,7 +79,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -94,7 +91,7 @@
         "Tarde": [
             "miercoles"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -116,12 +113,13 @@
     {
         "Nombre": "miguel pacheco",
         "Manana": [
-            ""
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -133,7 +131,7 @@
             "miercoles",
             "viernes"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -144,7 +142,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -156,7 +154,7 @@
         "Tarde": [
             "viernes"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -167,7 +165,7 @@
         "Tarde": [
             "domingo"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -178,7 +176,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -189,7 +187,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -212,7 +210,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -223,7 +221,7 @@
         "Tarde": [
             "miercoles"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -236,7 +234,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -248,20 +246,20 @@
         "Tarde": [
             "viernes"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
         "Nombre": "joaquin gonzalez",
         "Manana": [
-            "lunez",
-            "miercoles"
+            "lunes",
+            "miercoles",
+            "domingo"
         ],
         "Tarde": [
-            "miercoles",
-            "jueves"
+            "miercoles"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -273,7 +271,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -285,7 +283,7 @@
             "miercoles",
             "jueves"
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     },
     {
@@ -297,7 +295,7 @@
         "Tarde": [
             ""
         ],
-        "Mensaje": false,
+        "Mensaje": true,
         "Comentario": ""
     }
 ]
