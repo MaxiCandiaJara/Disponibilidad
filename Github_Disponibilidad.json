@@ -95,18 +95,14 @@
     {
         "Nombre": "marcos villanueva",
         "Manana": [
-            "lunes",
-            "martes",
-            "miercoles",
-            "jueves",
-            "viernes",
-            "domingo"
+            "Lunes",
+            "Sabado"
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": false,
-        "Comentario": ""
+        "Comentario": "Primer sabado del mes NO"
     },
     {
         "Nombre": "miguel pacheco",
@@ -158,10 +154,10 @@
     {
         "Nombre": "esteban bernales",
         "Manana": [
-            "sabado"
+            "Domingo"
         ],
         "Tarde": [
-            "domingo"
+            ""
         ],
         "Mensaje": true,
         "Comentario": ""
