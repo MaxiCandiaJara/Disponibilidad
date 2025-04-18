@@ -82,10 +82,7 @@
     },
     {
         "Nombre": "marcelo candia",
-        "Manana": [
-            "Lunes",
-            "Sabado"
-        ],
+        "Manana": [],
         "Tarde": [
             "miercoles"
         ],
@@ -154,7 +151,7 @@
     {
         "Nombre": "esteban bernales",
         "Manana": [
-            "Domingo"
+            "domingo"
         ],
         "Tarde": [
             ""
@@ -271,7 +268,7 @@
     {
         "Nombre": "maxi candia",
         "Manana": [
-            "Miercoles"
+            "miercoles"
         ],
         "Tarde": [
             "miercoles",
