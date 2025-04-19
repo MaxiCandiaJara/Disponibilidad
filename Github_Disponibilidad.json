@@ -84,9 +84,15 @@
     },
     {
         "Nombre": "marcelo candia",
-        "Manana": [],
+        "Manana": [
+             
+            "Sabado",
+            "Domingo" 
+
+        ],
         "Tarde": [
-            "miercoles"
+            "miercoles",
+            "lunes"
         ],
         "Mensaje": true,
         "Comentario": ""
