@@ -72,7 +72,9 @@
     {
         "Nombre": "luis bustamante",
         "Manana": [
-            "domingo"
+            "domingo",
+            "martes",
+            "viernes"
         ],
         "Tarde": [
             ""
