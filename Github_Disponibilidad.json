@@ -19,7 +19,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "Prueba"
+        "Comentario": ""
     },
     {
         "Nombre": "francisco blanco",
@@ -85,10 +85,8 @@
     {
         "Nombre": "marcelo candia",
         "Manana": [
-             
             "sabado",
-            "domingo" 
-
+            "domingo"
         ],
         "Tarde": [
             "miercoles",
@@ -295,6 +293,6 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "No puede por su cuñada"
+        "Comentario": "No puede por su cu\u00c3\u00b1ada"
     }
 ]
