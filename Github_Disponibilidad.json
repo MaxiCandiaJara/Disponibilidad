@@ -43,7 +43,7 @@
             "jueves"
         ],
         "Mensaje": true,
-        "Comentario": "solo zoom en las tardes si es 19:00"
+        "Comentario": "Solo Zoom 19 hrs. 21 y 22 de Junio NO"
     },
     {
         "Nombre": "jose aguilar",
@@ -174,7 +174,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "14 o 28 sabado"
     },
     {
         "Nombre": "luis valenzuela",
@@ -237,8 +237,7 @@
     {
         "Nombre": "giovanni fuentes",
         "Manana": [
-            "sabado",
-            "domingo"
+            ""
         ],
         "Tarde": [
             "viernes"
