@@ -230,15 +230,13 @@
     {
         "Nombre": "mauricio zu\u00f1iga",
         "Manana": [
-            "jueves",
-            "sabado",
-            "domingo"
+            "viernes"
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "solo 1 viernes al mes"
     },
     {
         "Nombre": "giovanni fuentes",
@@ -249,7 +247,7 @@
             "viernes"
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "Viernes 15 NO"
     },
     {
         "Nombre": "joaquin gonzalez",
@@ -267,14 +265,14 @@
     {
         "Nombre": "jorge martinez",
         "Manana": [
-            "sabado",
-            "domingo"
+            "jueves",
+            "viernes"
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "Penultima semana"
     },
     {
         "Nombre": "maxi candia",
