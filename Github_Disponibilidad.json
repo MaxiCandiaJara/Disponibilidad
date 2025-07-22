@@ -155,7 +155,7 @@
             "domingo"
         ],
         "Tarde": [
-            "viernes"
+            ""
         ],
         "Mensaje": true,
         "Comentario": ""
@@ -211,10 +211,10 @@
             "sabado"
         ],
         "Tarde": [
-            ""
+            "lunes"
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "1 lunes por zoom"
     },
     {
         "Nombre": "pablo cayunao",
@@ -230,7 +230,9 @@
     {
         "Nombre": "mauricio zu\u00f1iga",
         "Manana": [
-            "viernes"
+            "viernes",
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
             ""
