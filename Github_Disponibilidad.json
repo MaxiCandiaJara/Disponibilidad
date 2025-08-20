@@ -39,19 +39,6 @@
         "Comentario": "intercalados los lunes"
     },
     {
-        "Nombre": "francisco ramos",
-        "Manana": [
-            "sabado",
-            "domingo"
-        ],
-        "Tarde": [
-            "miercoles",
-            "jueves"
-        ],
-        "Mensaje": true,
-        "Comentario": "Solo Zoom 19 hrs. 5 y 6 de julio NO. Predi zoom maximo 2 veces al mes"
-    },
-    {
         "Nombre": "jose aguilar",
         "Manana": [
             "jueves",
@@ -114,18 +101,6 @@
         "Comentario": "Primer sabado del mes NO"
     },
     {
-        "Nombre": "miguel pacheco",
-        "Manana": [
-            "sabado",
-            "domingo"
-        ],
-        "Tarde": [
-            ""
-        ],
-        "Mensaje": true,
-        "Comentario": ""
-    },
-    {
         "Nombre": "rodrigo valenzuela",
         "Manana": [
             ""
@@ -133,40 +108,6 @@
         "Tarde": [
             "miercoles",
             "viernes"
-        ],
-        "Mensaje": true,
-        "Comentario": ""
-    },
-    {
-        "Nombre": "claudio ormazabal",
-        "Manana": [
-            ""
-        ],
-        "Tarde": [
-            ""
-        ],
-        "Mensaje": true,
-        "Comentario": ""
-    },
-    {
-        "Nombre": "david donoso",
-        "Manana": [
-            "sabado",
-            "domingo"
-        ],
-        "Tarde": [
-            ""
-        ],
-        "Mensaje": true,
-        "Comentario": ""
-    },
-    {
-        "Nombre": "esteban bernales",
-        "Manana": [
-            "domingo"
-        ],
-        "Tarde": [
-            ""
         ],
         "Mensaje": true,
         "Comentario": ""
@@ -186,18 +127,6 @@
         "Nombre": "luis valenzuela",
         "Manana": [
             ""
-        ],
-        "Tarde": [
-            ""
-        ],
-        "Mensaje": true,
-        "Comentario": ""
-    },
-    {
-        "Nombre": "oscar rojas",
-        "Manana": [
-            "jueves",
-            "sabado"
         ],
         "Tarde": [
             ""
@@ -226,19 +155,6 @@
         ],
         "Mensaje": true,
         "Comentario": ""
-    },
-    {
-        "Nombre": "mauricio zu\u00f1iga",
-        "Manana": [
-            "viernes",
-            "sabado",
-            "domingo"
-        ],
-        "Tarde": [
-            ""
-        ],
-        "Mensaje": true,
-        "Comentario": "solo 1 viernes al mes"
     },
     {
         "Nombre": "giovanni fuentes",
