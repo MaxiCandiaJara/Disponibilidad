@@ -162,12 +162,12 @@
     {
         "Nombre": "joaquin gonzalez",
         "Manana": [
-            "lunes",
-            "miercoles",
-            "domingo"
+            "viernes",
+            "sabado"
         ],
         "Tarde": [
-            "miercoles"
+            "martes",
+            "viernes"
         ],
         "Mensaje": true,
         "Comentario": ""
