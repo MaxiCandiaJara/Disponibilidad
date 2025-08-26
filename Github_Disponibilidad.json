@@ -2,19 +2,13 @@
     {
         "Nombre": "carlos godoy",
         "Manana": [
-            "lunes",
-            "martes",
-            "miercoles",
-            "jueves",
-            "viernes",
-            "sabado",
-            "domingo"
+            ""
         ],
         "Tarde": [
             ""
         ],
-        "Mensaje": true,
-        "Comentario": "Fuera de santiago operacion hija 2 MESES. mayo y junio"
+        "Mensaje": false,
+        "Comentario": "fuera"
     },
     {
         "Nombre": "claudio fuentes",
@@ -65,9 +59,7 @@
     {
         "Nombre": "luis bustamante",
         "Manana": [
-            "domingo",
-            "martes",
-            "viernes"
+            ""
         ],
         "Tarde": [
             ""
@@ -143,7 +135,7 @@
             "lunes"
         ],
         "Mensaje": true,
-        "Comentario": "1 lunes por zoom"
+        "Comentario": "semana del 15 de sep NO"
     },
     {
         "Nombre": "pablo cayunao",
@@ -207,13 +199,12 @@
     {
         "Nombre": "rolando cespedes",
         "Manana": [
-            "",
-            ""
+            "miercoles"
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": true,
-        "Comentario": "No puede por su cu\u00c3\u00b1ada"
+        "Comentario": "ULTIMO MIER DEL MES"
     }
 ]
