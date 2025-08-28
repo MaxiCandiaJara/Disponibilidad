@@ -70,6 +70,7 @@
     {
         "Nombre": "marcelo candia",
         "Manana": [
+            "martes",
             "sabado",
             "domingo"
         ],
@@ -187,11 +188,12 @@
     {
         "Nombre": "maxi candia",
         "Manana": [
-            "miercoles"
+            "lunes",
+            "jueves",
+            "viernes"
         ],
         "Tarde": [
-            "miercoles",
-            "jueves"
+            "lunes"
         ],
         "Mensaje": true,
         "Comentario": ""
