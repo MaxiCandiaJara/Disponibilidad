@@ -75,8 +75,8 @@
             "domingo"
         ],
         "Tarde": [
-            "miercoles",
-            "lunes"
+            "lunes",
+            "martes"
         ],
         "Mensaje": true,
         "Comentario": ""
@@ -99,7 +99,7 @@
             ""
         ],
         "Tarde": [
-            "miercoles",
+            "martes",
             "viernes"
         ],
         "Mensaje": true,
@@ -144,7 +144,7 @@
             ""
         ],
         "Tarde": [
-            "miercoles"
+            "martes"
         ],
         "Mensaje": true,
         "Comentario": ""
