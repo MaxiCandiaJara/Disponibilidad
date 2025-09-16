@@ -2,13 +2,19 @@
     {
         "Nombre": "carlos godoy",
         "Manana": [
-            ""
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": false,
-        "Comentario": "fuera"
+        "Comentario": ""
     },
     {
         "Nombre": "claudio fuentes",
