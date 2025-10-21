@@ -14,11 +14,12 @@
             ""
         ],
         "Mensaje": false,
-        "Comentario": ""
+        "Comentario": "6 al 10 de Nov NO"
     },
     {
         "Nombre": "claudio fuentes",
         "Manana": [
+            "miercoles",
             "viernes"
         ],
         "Tarde": [
@@ -90,8 +91,7 @@
     {
         "Nombre": "marcos villanueva",
         "Manana": [
-            "lunes",
-            "sabado"
+            "domingo"
         ],
         "Tarde": [
             ""
@@ -106,6 +106,7 @@
         ],
         "Tarde": [
             "martes",
+            "jueves",
             "viernes"
         ],
         "Mensaje": true,
@@ -120,7 +121,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "sabado 5 o 12 de Julio"
+        "Comentario": "8, 22, 29"
     },
     {
         "Nombre": "luis valenzuela",
@@ -139,10 +140,10 @@
             "sabado"
         ],
         "Tarde": [
-            "lunes"
+            ""
         ],
         "Mensaje": true,
-        "Comentario": "semana del 15 de sep NO"
+        "Comentario": ""
     },
     {
         "Nombre": "pablo cayunao",
@@ -164,7 +165,7 @@
             "viernes"
         ],
         "Mensaje": true,
-        "Comentario": "Viernes 15 NO"
+        "Comentario": "Viernes 21 NO"
     },
     {
         "Nombre": "joaquin gonzalez",
