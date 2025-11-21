@@ -14,7 +14,7 @@
             ""
         ],
         "Mensaje": false,
-        "Comentario": "6 al 10 de Nov NO"
+        "Comentario": "Ultima semana de Diciembre No"
     },
     {
         "Nombre": "claudio fuentes",
@@ -148,10 +148,11 @@
     {
         "Nombre": "pablo cayunao",
         "Manana": [
-            ""
+            "sabado",
+            "domingo"
         ],
         "Tarde": [
-            "martes"
+            ""
         ],
         "Mensaje": true,
         "Comentario": ""
@@ -162,10 +163,13 @@
             ""
         ],
         "Tarde": [
+            "lunes",
+            "martes",
+            "jueves",
             "viernes"
         ],
         "Mensaje": true,
-        "Comentario": "Viernes 21 NO"
+        "Comentario": "Fin de navidad no"
     },
     {
         "Nombre": "joaquin gonzalez",
@@ -215,5 +219,17 @@
         ],
         "Mensaje": true,
         "Comentario": "ULTIMO MIER DEL MES"
+    },
+    {
+        "Nombre": "vicente serey",
+        "Manana": [
+            "sabado",
+            "domingo"
+        ],
+        "Tarde": [
+            ""
+        ],
+        "Mensaje": false,
+        "Comentario": ""
     }
 ]
