@@ -14,7 +14,7 @@
             ""
         ],
         "Mensaje": false,
-        "Comentario": "Ultima semana de Diciembre No"
+        "Comentario": " disponible a partir del 07 de enero."
     },
     {
         "Nombre": "claudio fuentes",
@@ -50,7 +50,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "No 18 al 31 Enero"
     },
     {
         "Nombre": "leonardo serey",
@@ -66,7 +66,8 @@
     {
         "Nombre": "luis bustamante",
         "Manana": [
-            ""
+            "martes",
+            "viernes"
         ],
         "Tarde": [
             ""
@@ -121,7 +122,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "8, 22, 29"
+        "Comentario": "a partir del 22, fuera de Santiago"
     },
     {
         "Nombre": "luis valenzuela",
@@ -169,7 +170,7 @@
             "viernes"
         ],
         "Mensaje": true,
-        "Comentario": "Fin de navidad no"
+        "Comentario": "viernes 2 de enero"
     },
     {
         "Nombre": "joaquin gonzalez",
