@@ -149,11 +149,14 @@
     {
         "Nombre": "pablo cayunao",
         "Manana": [
-            "sabado",
-            "domingo"
+            ""
         ],
         "Tarde": [
-            ""
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes"
         ],
         "Mensaje": true,
         "Comentario": ""
