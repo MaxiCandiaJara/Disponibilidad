@@ -2,19 +2,13 @@
     {
         "Nombre": "carlos godoy",
         "Manana": [
-            "lunes",
-            "martes",
-            "miercoles",
-            "jueves",
-            "viernes",
-            "sabado",
-            "domingo"
+            ""
         ],
         "Tarde": [
             ""
         ],
         "Mensaje": false,
-        "Comentario": " disponible a partir del 07 de enero."
+        "Comentario": "No esta por febrero."
     },
     {
         "Nombre": "claudio fuentes",
@@ -37,7 +31,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "intercalados los lunes"
+        "Comentario": "Solamente 2 lunes"
     },
     {
         "Nombre": "jose aguilar",
@@ -50,7 +44,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": "No 18 al 31 Enero"
+        "Comentario": "Desde el 23 en adelante"
     },
     {
         "Nombre": "leonardo serey",
@@ -73,7 +67,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "Solo primera semana de Febrero"
     },
     {
         "Nombre": "marcelo candia",
@@ -144,7 +138,7 @@
             ""
         ],
         "Mensaje": true,
-        "Comentario": ""
+        "Comentario": "s\u00e1bados 21 y 28 de febrero"
     },
     {
         "Nombre": "pablo cayunao",
